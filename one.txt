@@ -4,8 +4,5 @@ one-1
 1
 1
 1
-<<<<<<< HEAD
-oneeeeeeeeeeeeee
-=======
 oneeee
->>>>>>> staging1
+
